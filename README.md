@@ -1,4 +1,15 @@
+# Credit Card Analysis Using SQL (India)
 
+This project analyzes credit card transactions across major Indian cities using **MySQL**.  
+It includes complete SQL scripts, insights, and output explanations to help understand customer spending behavior, city trends, card performance, and advanced analytics like MoM growth and outlier detection.
+
+---
+
+## 📁 Repository Structure
+
+├── Credit card transactions - India - Simple.csv # Dataset
+├── credit.sql # All SQL queries
+└── credit_mysql.pdf # PDF result / documentation
 ---
 
 ## 📌 Project Objectives
