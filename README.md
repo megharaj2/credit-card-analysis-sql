@@ -5,7 +5,6 @@ It includes complete SQL scripts, insights, and output explanations to help unde
 
 ---
 
-```md
 ## 📁 Repository Structure
 
 ```
@@ -15,7 +14,6 @@ It includes complete SQL scripts, insights, and output explanations to help unde
 ├── 📄 credit.sql                                      # All SQL queries
 └── 📄 credit_mysql.pdf                                # PDF result / documentation
 
-```
 ```
 
 ---
