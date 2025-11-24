@@ -18,14 +18,6 @@ It includes complete SQL scripts, insights, and output explanations to help unde
 
 ---
 
-
-## 📁 Repository Structure
-
-├── Credit card transactions - India - Simple.csv # Dataset
-├── credit.sql # All SQL queries
-└── credit_mysql.pdf # PDF result / documentation
----
-
 ## 📌 Project Objectives
 
 This SQL project explores:
